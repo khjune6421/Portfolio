@@ -5,6 +5,9 @@ First solo/unity game Random Infinite Maze
 - Procedurally generated infinite maze
 - node-based generation and pathfinding system
 
+## Game Play Image
+<img width="2525" height="883" alt="Image" src="https://github.com/user-attachments/assets/1c6b001c-2fcd-4ee1-a558-2a6d517e1e41" />
+
 ## Sample code (Recursive Backtracking Maze generation algorithm)
 ```csharp
 using System.Collections;
@@ -226,9 +229,6 @@ public class MazeAlgorithm : MonoBehaviour
     }
 }
 ```
-
-## Game Play Image
-<img width="2525" height="883" alt="Image" src="https://github.com/user-attachments/assets/1c6b001c-2fcd-4ee1-a558-2a6d517e1e41" />
 
 ## Trivia
 
