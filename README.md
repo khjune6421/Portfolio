@@ -2,6 +2,8 @@ Console based fortress-like game
 
 A console-based fortress-like game I've made with 권용범 and 황재하
 
+youtube link: https://youtu.be/dAGSTIBp4Ak
+
 ## Key Features I've implemented
 
 parabola system for artillery
