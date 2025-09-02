@@ -1,0 +1,52 @@
+﻿  VDGraphics.cpp
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDMath.h(5,9): warning C4005: 'min': macro redefinition
+  (compiling source file 'VDGraphics.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(197,9):
+      see previous definition of 'min'
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDMath.h(6,9): warning C4005: 'max': macro redefinition
+  (compiling source file 'VDGraphics.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\minwindef.h(193,9):
+      see previous definition of 'max'
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(110,14): warning C4091: 'typedef ': ignored on left of 'VDPOOL' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(120,14): warning C4091: 'typedef ': ignored on left of 'VDPRIMITIVETYPE' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(132,14): warning C4091: 'typedef ': ignored on left of 'VDTRANSFORMSTATETYPE' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(149,14): warning C4091: 'typedef ': ignored on left of 'VDTEXTUREFILTERTYPE' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(161,14): warning C4091: 'typedef ': ignored on left of 'VDRENDERSTATETYPE' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(303,16): warning C4091: 'typedef ': ignored on left of 'VDDISPLAYMODE' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(311,16): warning C4091: 'typedef ': ignored on left of 'VDPRESENT_PARAMETERS' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(327,16): warning C4091: 'typedef ': ignored on left of 'VDVERTEXBUFFER_DESC' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(337,16): warning C4099: 'VDVIEWPORT': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'VDGraphics.cpp')
+      C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(337,16):
+      see declaration of 'VDVIEWPORT'
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9types.h(337,16): warning C4091: 'typedef ': ignored on left of 'VDVIEWPORT' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9.h(40,21): warning C4091: 'typedef ': ignored on left of 'IVooDooVertexBuffer' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDX9.h(51,21): warning C4091: 'typedef ': ignored on left of 'IVooDoo' when no variable is declared
+  (compiling source file 'VDGraphics.cpp')
+  
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDGraphics.cpp(529,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\랜더링 과제\6. 라이팅\Basic_Frameworks\VDGraphics.cpp(529,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Basic_Frameworks.vcxproj -> C:\Users\User\Desktop\랜더링 과제\6. 라이팅\x64\Debug\Basic_Frameworks.exe

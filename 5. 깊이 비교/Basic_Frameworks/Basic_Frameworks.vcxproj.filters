@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="VooDoo">
+      <UniqueIdentifier>{95ecf57f-f87b-4b98-aa3c-acfdbaec7c12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VooDoo\Core">
+      <UniqueIdentifier>{3fd14db6-1737-4bf9-a7fa-f23642bd47df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VooDoo\Device">
+      <UniqueIdentifier>{4eaff614-fd5b-4144-ba40-17b2424ea181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VooDoo\Math">
+      <UniqueIdentifier>{bc89e566-5285-4ef9-9a23-f59e1c2213a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VooDoo\Graphics">
+      <UniqueIdentifier>{b713f6f7-8064-4725-b4c3-e96567db798d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Demo">
+      <UniqueIdentifier>{2b5eeb4b-e495-4808-b824-d6685d9f26e9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="VooDoo.h">
+      <Filter>VooDoo</Filter>
+    </ClInclude>
+    <ClInclude Include="VDGUID.h">
+      <Filter>VooDoo\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="VDUnknownbase.h">
+      <Filter>VooDoo\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="VDX9types.h">
+      <Filter>VooDoo\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="VDX9.h">
+      <Filter>VooDoo\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="VDMath.h">
+      <Filter>VooDoo\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="VDGraphics.h">
+      <Filter>VooDoo\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="VDVertexBuffer.h">
+      <Filter>VooDoo\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>Demo</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>Demo</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="VooDoo.cpp">
+      <Filter>VooDoo</Filter>
+    </ClCompile>
+    <ClCompile Include="VDMath.cpp">
+      <Filter>VooDoo\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="VDGraphics.cpp">
+      <Filter>VooDoo\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="VDVertexBuffer.cpp">
+      <Filter>VooDoo\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Render.cpp">
+      <Filter>Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>Demo</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+</Project>
